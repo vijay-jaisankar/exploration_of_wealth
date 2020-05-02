@@ -5,5 +5,6 @@ Exploration of the Economic Freedom Index
 * Data Cleaning and Wrangling
 * Data Frame Querying  
 * Graphing and Proving Claims made on data
-* Implementing a Classifier to predict data
+* Implementing a Classifier to predict data  
+* Graphing accuracies and conclusions made on the data
 
