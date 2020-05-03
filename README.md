@@ -6,5 +6,11 @@ Exploration of the Economic Freedom Index
 * Data Frame Querying  
 * Graphing and Proving Claims made on data
 * Implementing a Classifier to predict data  
-* Graphing accuracies and conclusions made on the data
+* Graphing accuracies and conclusions made on the data  
+
+# Modules Used:
+* Pandas
+* Numpy
+* Scikit-Learn
+* Matplotlib
 
