@@ -8,7 +8,7 @@ Exploration of the Economic Freedom Index
 * Implementing a Classifier to predict data  
 * Graphing accuracies and conclusions made on the data  
 
-# Modules Used:
+# Modules Used
 * Pandas
 * Numpy
 * Scikit-Learn
